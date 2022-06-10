@@ -16,6 +16,8 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 
+from z3 import *
+
 import time
 
 ## Equivalence Checking
