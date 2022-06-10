@@ -1,0 +1,5 @@
+all these models are approx. 180MB each!
+
+- see if I can upload them via Git commands (drag and drop limit of 25 MB)
+
+- otherwise retrain models 
