@@ -19,13 +19,23 @@ git clone https://github.com/hariselef/NNequiv_Experiments.git
 
 ```
 docker image build -t nnequiv .
-
 ```
 Wait till the build is completed. Then type
 
 ```
 docker run -it nnequiv
-
 ```
 
- 
+7) Now you have to activate the proper anaconda environment with all the installed dependencies.
+
+```
+conda activate nnequiv
+```
+
+8) You can generate the results of any Table of the paper by typing:
+
+```
+python src/<Table name>.py
+```
+Available Table names:
+Table_1, Table_2, Table_3, Table_4, Table_5, Table_6, Table_7 & Table_9
