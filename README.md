@@ -26,7 +26,7 @@ Wait till the build is completed. Then type
 docker run -it nnequiv
 ```
 
-7) Now you have to activate the proper anaconda environment with all the installed dependencies.
+7) Now, you have run dokcer, you have to activate the proper anaconda environment with all the installed dependencies.
 
 ```
 conda activate nnequiv
