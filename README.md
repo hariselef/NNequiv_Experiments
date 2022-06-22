@@ -11,5 +11,5 @@ This repository contains the experimental results for our paper "On Neural Netwo
 E.g. with Git you can 
 
 ```
-git clone 
+git clone https://github.com/hariselef/NNequiv_Experiments.git 
 ```
