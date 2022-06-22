@@ -15,24 +15,24 @@ git clone https://github.com/hariselef/NNequiv_Experiments.git
 ```
 3) change you current working directory to the project directory.
 4) Enable docker.
-5) Then type the following commands:
+5) Then type the following command:
 
 ```
 docker image build -t nnequiv .
 ```
-Wait till the build is completed. Then type
+6) Wait till the build is completed. Then type:
 
 ```
 docker run -it nnequiv
 ```
 
-6) Now, you have run dokcer, you have to activate the proper anaconda environment with all the installed dependencies.
+7) Now, you have run dokcer, you have to activate the proper anaconda environment with all the installed dependencies.
 
 ```
 conda activate nnequiv
 ```
 
-7) You can generate the results of any Table of the paper by typing:
+8) You can generate the results of any Table of the paper by typing:
 
 ```
 python src/<Table name>.py
