@@ -10,6 +10,6 @@ This repository contains the experimental results for our paper "On Neural Netwo
 2) Clone the repository to your local machine.
 E.g. with Git you can 
 
-'''
+```
 git clone 
-'''
+```
