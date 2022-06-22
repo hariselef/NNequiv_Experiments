@@ -1,9 +1,9 @@
-### NNequiv_Experiments
+# NNequiv_Experiments
 
 This repository contains the experimental results for our paper "On Neural Network Equivalence Checking using SMT solvers"
 
 
-# How to run #
+### How to run #
 
 1) You have to download and enable docker in your local machine. You can find more info at https://docs.docker.com/get-docker/
 
