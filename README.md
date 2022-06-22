@@ -13,3 +13,19 @@ E.g. with Git you can
 ```
 git clone https://github.com/hariselef/NNequiv_Experiments.git 
 ```
+3) change you current working directory to the project directory.
+4) Enable docker.
+5) Then type the following commands:
+
+```
+docker image build -t nnequiv .
+
+```
+Wait till the build is completed. Then type
+
+```
+docker run -it nnequiv
+
+```
+
+ 
