@@ -26,13 +26,13 @@ Wait till the build is completed. Then type
 docker run -it nnequiv
 ```
 
-7) Now, you have run dokcer, you have to activate the proper anaconda environment with all the installed dependencies.
+6) Now, you have run dokcer, you have to activate the proper anaconda environment with all the installed dependencies.
 
 ```
 conda activate nnequiv
 ```
 
-8) You can generate the results of any Table of the paper by typing:
+7) You can generate the results of any Table of the paper by typing:
 
 ```
 python src/<Table name>.py
