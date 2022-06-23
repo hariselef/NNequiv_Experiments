@@ -3,12 +3,17 @@
 This repository contains the experimental results for our paper "On Neural Network Equivalence Checking using SMT solvers"
 
 
-### How to run #
+## Software Installation #
 
-1) You have to download and enable docker in your local machine. You can find more info at https://docs.docker.com/get-docker/
+### The steps needed to install the software are listed below.
 
-2) Clone the repository to your local machine.
-E.g. with Git you can 
+1) Install docker from https://docs.docker.com/get-docker/. Please choose the docker version based on the OS and specifications of your machine.
+
+2) Make sure that docker is working correctly and is enabled/running. In macOS and Windows, this can be done simply by double clicking on the Docker app. In Linux, the user might need to run from the terminal 
+
+```
+service docker start
+```
 
 ```
 git clone https://github.com/hariselef/NNequiv_Experiments.git 
