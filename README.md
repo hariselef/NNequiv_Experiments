@@ -9,7 +9,7 @@ This repository contains the experimental results for our paper "On Neural Netwo
 
 1) Install docker from https://docs.docker.com/get-docker/. Please choose the docker version based on the OS and specifications of your machine.
 
-2) Make sure that docker is working correctly and is enabled/running. In macOS and Windows, this can be done simply by double clicking on the Docker app. In Linux, the user might need to run from the terminal 
+2) Make sure that docker is working correctly and is enabled/running. In macOS and Windows, this can be done simply by double clicking on the Docker app. In Linux, the user might need to run from the terminal e.g.
 
 ```
 service docker start
