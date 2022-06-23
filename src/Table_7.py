@@ -190,13 +190,13 @@ def calc_experiment(nn1, nn2, eq_type, dataset):
     if check == unknown:
         print('Result:', s.reason_unknown())
         exec_time = time.time() - start_time
-        print('Execution time: {:.2f}'.format(exec_time))
+        print('Execution time: {:.2f} s'.format(exec_time))
         print('---------------------------------------------')
         pass
     else:
         print('Result:', check)
         exec_time = time.time() - start_time
-        print('Execution time: {:.2f}'.format(exec_time))
+        print('Execution time: {:.2f} s'.format(exec_time))
         print('---------------------------------------------')
     # return check, exec_time
 
@@ -204,7 +204,8 @@ def calc_experiment(nn1, nn2, eq_type, dataset):
 
 if __name__ == "__main__":
 
-    
+    global_time = time.time()
+
     model_1_1 = 'models/Equivalence_Checking/BitVec/arch_1/bitvec_1_1.h5'
     model_2_1 = 'models/Equivalence_Checking/BitVec/arch_2/bitvec_2_1.h5'
     model_1_2 = 'models/Equivalence_Checking/BitVec/arch_1/bitvec_1_2.h5'
@@ -221,3 +222,5 @@ if __name__ == "__main__":
     calc_experiment(mnist_1_1, mnist_2_1, 'L2_10', "mnist")
         
 
+    glob_time =  time.time() - global_time
+    print('The overall time for the current experiment is: {:.2f} s'.format(glob_time))

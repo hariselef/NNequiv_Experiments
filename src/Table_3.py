@@ -183,7 +183,7 @@ def calc_experiment(nn1, nn2, eq_type, dataset):
     check = s.check()
     print('Result:', check)
     exec_time = time.time() - start_time
-    print('Execution time: {:.2f}'.format(exec_time))
+    print('Execution time: {:.2f} s'.format(exec_time))
     print('---------------------------------------------')
     # return check, exec_time
 
@@ -221,6 +221,7 @@ if __name__ == "__main__":
     # [check,ctime]=calc_experiment(nn1, nn2, True,  "Linf", "BitVec")
     # [check,ctime]=calc_experiment(nn1, nn2, True,  "argmax", "BitVec")
     
+    global_time = time.time()
     for nn in NN:
 
         eq_types = [ "strict", "L1", "L2", "Linf", "argmax"]
@@ -229,7 +230,8 @@ if __name__ == "__main__":
             calc_experiment(nn, nn, eq, "mnist")
             # [check,ctime]=calc_experiment(nn, nn, True,  eq, "BitVec")
 
-
+    glob_time =  time.time() - global_time
+    print('The overall time for the current experiment is: {:.2f} s'.format(glob_time))
 # print(check, ctime)
 
 
