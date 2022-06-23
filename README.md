@@ -15,12 +15,20 @@ This repository contains the experimental results for our paper "On Neural Netwo
 service docker start
 ```
 
+3) Download or Clone current repository. In case you have Git installed you can run from terminal:
 ```
-git clone https://github.com/hariselef/NNequiv_Experiments.git 
+git clone https://github.com/hariselef/NNequiv Experiments.git 
 ```
-3) change you current working directory to the project directory.
-4) Enable docker.
-5) Then type the following command:
+or
+```
+git clone git@github.com:hariselef/NNequiv Experiments.git
+```
+
+4) Once you have downloaded the source code (from the repository), you need to open a terminal (console, command window, command prompt) and move to the directory you have placed the code, e.g.
+```
+cd NNequiv Experiments
+```
+5) Enable docker.
 
 ```
 docker image build -t nnequiv .
