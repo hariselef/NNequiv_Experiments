@@ -192,7 +192,6 @@ def calc_experiment(nn1, nn2, eq_type, dataset):
         exec_time = time.time() - start_time
         print('Execution time: {:.2f} s'.format(exec_time))
         print('---------------------------------------------')
-        pass
     else:
         print('Result:', check)
         exec_time = time.time() - start_time
