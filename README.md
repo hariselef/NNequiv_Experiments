@@ -35,8 +35,7 @@ docker image build -t nnequiv .
 ```
 
 ## Run the code
-
-### In the previous section, we downloaded and setup the docker container. The commands to run the code as displayed below.
+### In the previous section, we downloaded and setup the docker container. The commands to run the code as displayed below. #
 
 1) Run the docker via
 ```
