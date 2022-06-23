@@ -28,27 +28,33 @@ git clone git@github.com:hariselef/NNequiv Experiments.git
 ```
 cd NNequiv Experiments
 ```
-5) Enable docker.
+5) he next step is to create (build) the docker container. This step depends heavily on the computer resources and the internet speed. It might vary from 10 minutes up to 1 hour. Run in the terminal:
 
 ```
 docker image build -t nnequiv .
 ```
-6) Wait till the build is completed. Then type:
 
+## Run the code
+
+### In the previous section, we downloaded and setup the docker container. The commands to run the code as displayed below.
+
+1) Run the docker via
 ```
 docker run -it nnequiv
 ```
 
-7) Now, you have run dokcer, you have to activate the proper anaconda environment with all the installed dependencies.
+2) Setup the anaconda environment that contains the necessary python libraries/dependencies with
 
 ```
 conda activate nnequiv
 ```
 
-8) You can generate the results of any Table of the paper by typing:
+3) Run individual scripts which contain the results reported in the paper. Each script corresponds to a Table. You can type 
 
 ```
 python src/<Table name>.py
+
+e.g. python src/Table_1.py
 ```
 Available Table names:
 Table_1, Table_2, Table_3, Table_4, Table_5, Table_6, Table_7 & Table_9
