@@ -126,3 +126,4 @@ Experiment:  bitvec_1_8.h5 vs bitvec_2_8.h5 Input dimension:  10 Equivalence typ
 Result: max. memory exceeded
 Execution time: 343.56 s
 ---------------------------------------------
+The overall time for the current experiment is: 8243.59 s
