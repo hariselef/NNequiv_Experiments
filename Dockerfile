@@ -7,6 +7,7 @@ WORKDIR C:/Users/haris/Desktop/test/
 # # Create the environment:
 COPY src src/
 COPY models models/
+COPY sample_outputs sample_outputs/
 COPY environment.yml .
 
 SHELL [ "/bin/bash", "--login", "-c" ]
@@ -17,6 +18,8 @@ ENV PATH=$CONDA_DIR/bin:$PATH
 RUN echo ". $CONDA_DIR/etc/profile.d/conda.sh" >> ~/.profile
 # Make conda activate command available from /bin/bash --interative shells.
 RUN conda init bash
+RUN apt-get -y update
+RUN apt-get -y install vim nano
 
 # Create and activate the environment.
 RUN conda env create --force -f environment.yml
