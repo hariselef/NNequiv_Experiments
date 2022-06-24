@@ -218,7 +218,7 @@ if __name__ == "__main__":
     calc_experiment(model_1_2, model_2_2, 'L2_1', "BitVec")
     calc_experiment(model_1_2, model_2_2, 'L2_10', "BitVec")
     calc_experiment(mnist_1_1, mnist_2_1, 'L2_1', "mnist")
-    calc_experiment(mnist_1_1, mnist_2_1, 'L2_10', "mnist")
+#     calc_experiment(mnist_1_1, mnist_2_1, 'L2_10', "mnist")
         
 
     glob_time =  time.time() - global_time
