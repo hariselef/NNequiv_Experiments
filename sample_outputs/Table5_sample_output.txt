@@ -1,0 +1,128 @@
+Experiment:  bitvec_1_1.h5 vs bitvec_2_1.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: sat
+Execution time: 0.06 s
+---------------------------------------------
+Experiment:  bitvec_1_1.h5 vs bitvec_2_1.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: unsat
+Execution time: 34.52 s
+---------------------------------------------
+Experiment:  bitvec_1_1.h5 vs bitvec_2_1.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: unsat
+Execution time: 47.13 s
+---------------------------------------------
+Experiment:  bitvec_1_1.h5 vs bitvec_2_1.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: sat
+Execution time: 0.34 s
+---------------------------------------------
+Experiment:  bitvec_1_2.h5 vs bitvec_2_2.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: sat
+Execution time: 0.10 s
+---------------------------------------------
+Experiment:  bitvec_1_2.h5 vs bitvec_2_2.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: sat
+Execution time: 0.22 s
+---------------------------------------------
+Experiment:  bitvec_1_2.h5 vs bitvec_2_2.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: unsat
+Execution time: 157.45 s
+---------------------------------------------
+Experiment:  bitvec_1_2.h5 vs bitvec_2_2.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: sat
+Execution time: 0.56 s
+---------------------------------------------
+Experiment:  bitvec_1_3.h5 vs bitvec_2_3.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: sat
+Execution time: 0.17 s
+---------------------------------------------
+Experiment:  bitvec_1_3.h5 vs bitvec_2_3.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: unsat
+Execution time: 385.10 s
+---------------------------------------------
+Experiment:  bitvec_1_3.h5 vs bitvec_2_3.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: unsat
+Execution time: 514.83 s
+---------------------------------------------
+Experiment:  bitvec_1_3.h5 vs bitvec_2_3.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: unsat
+Execution time: 296.22 s
+---------------------------------------------
+Experiment:  bitvec_1_4.h5 vs bitvec_2_4.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: sat
+Execution time: 0.29 s
+---------------------------------------------
+Experiment:  bitvec_1_4.h5 vs bitvec_2_4.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: sat
+Execution time: 222.32 s
+---------------------------------------------
+Experiment:  bitvec_1_4.h5 vs bitvec_2_4.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: timeout
+Execution time: 601.35 s
+---------------------------------------------
+Experiment:  bitvec_1_4.h5 vs bitvec_2_4.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: sat
+Execution time: 102.34 s
+---------------------------------------------
+Experiment:  bitvec_1_5.h5 vs bitvec_2_5.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: sat
+Execution time: 0.49 s
+---------------------------------------------
+Experiment:  bitvec_1_5.h5 vs bitvec_2_5.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: max. memory exceeded
+Execution time: 571.96 s
+---------------------------------------------
+Experiment:  bitvec_1_5.h5 vs bitvec_2_5.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: max. memory exceeded
+Execution time: 491.70 s
+---------------------------------------------
+Experiment:  bitvec_1_5.h5 vs bitvec_2_5.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: sat
+Execution time: 292.78 s
+---------------------------------------------
+Experiment:  bitvec_1_6.h5 vs bitvec_2_6.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: sat
+Execution time: 0.76 s
+---------------------------------------------
+Experiment:  bitvec_1_6.h5 vs bitvec_2_6.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: timeout
+Execution time: 601.55 s
+---------------------------------------------
+Experiment:  bitvec_1_6.h5 vs bitvec_2_6.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: max. memory exceeded
+Execution time: 508.58 s
+---------------------------------------------
+Experiment:  bitvec_1_6.h5 vs bitvec_2_6.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: max. memory exceeded
+Execution time: 388.40 s
+---------------------------------------------
+Experiment:  bitvec_1_7.h5 vs bitvec_2_7.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: sat
+Execution time: 1.09 s
+---------------------------------------------
+Experiment:  bitvec_1_7.h5 vs bitvec_2_7.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: timeout
+Execution time: 601.66 s
+---------------------------------------------
+Experiment:  bitvec_1_7.h5 vs bitvec_2_7.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: max. memory exceeded
+Execution time: 535.41 s
+---------------------------------------------
+Experiment:  bitvec_1_7.h5 vs bitvec_2_7.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: max. memory exceeded
+Execution time: 379.61 s
+---------------------------------------------
+Experiment:  bitvec_1_8.h5 vs bitvec_2_8.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: sat
+Execution time: 1.61 s
+---------------------------------------------
+Experiment:  bitvec_1_8.h5 vs bitvec_2_8.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: timeout
+Execution time: 601.94 s
+---------------------------------------------
+Experiment:  bitvec_1_8.h5 vs bitvec_2_8.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: max. memory exceeded
+Execution time: 559.49 s
+---------------------------------------------
+Experiment:  bitvec_1_8.h5 vs bitvec_2_8.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: max. memory exceeded
+Execution time: 343.56 s
+---------------------------------------------

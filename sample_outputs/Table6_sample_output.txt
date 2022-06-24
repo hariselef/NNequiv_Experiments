@@ -1,0 +1,81 @@
+Experiment:  mnist_1_1.h5 vs mnist_2_1.h5 Input dimension:  784 Equivalence type:  strict Dataset:  mnist
+Result: sat
+Execution time: 3.31 s
+---------------------------------------------
+Experiment:  mnist_1_1.h5 vs mnist_2_1.h5 Input dimension:  784 Equivalence type:  L1 Dataset:  mnist
+Result: sat
+Execution time: 38.73 s
+---------------------------------------------
+Experiment:  mnist_1_1.h5 vs mnist_2_1.h5 Input dimension:  784 Equivalence type:  Linf Dataset:  mnist
+Result: sat
+Execution time: 38.46 s
+---------------------------------------------
+Experiment:  mnist_1_1.h5 vs mnist_2_1.h5 Input dimension:  784 Equivalence type:  argmax Dataset:  mnist
+Result: sat
+Execution time: 39.06 s
+---------------------------------------------
+Experiment:  mnist_1_2.h5 vs mnist_2_2.h5 Input dimension:  784 Equivalence type:  strict Dataset:  mnist
+Result: sat
+Execution time: 9.12 s
+---------------------------------------------
+Experiment:  mnist_1_2.h5 vs mnist_2_2.h5 Input dimension:  784 Equivalence type:  L1 Dataset:  mnist
+Result: sat
+Execution time: 21.47 s
+---------------------------------------------
+Experiment:  mnist_1_2.h5 vs mnist_2_2.h5 Input dimension:  784 Equivalence type:  Linf Dataset:  mnist
+Result: sat
+Execution time: 21.67 s
+---------------------------------------------
+Experiment:  mnist_1_2.h5 vs mnist_2_2.h5 Input dimension:  784 Equivalence type:  argmax Dataset:  mnist
+Result: sat
+Execution time: 21.55 s
+---------------------------------------------
+Experiment:  mnist_1_3.h5 vs mnist_2_3.h5 Input dimension:  784 Equivalence type:  strict Dataset:  mnist
+Result: sat
+Execution time: 15.55 s
+---------------------------------------------
+Experiment:  mnist_1_3.h5 vs mnist_2_3.h5 Input dimension:  784 Equivalence type:  L1 Dataset:  mnist
+Result: sat
+Execution time: 36.64 s
+---------------------------------------------
+Experiment:  mnist_1_3.h5 vs mnist_2_3.h5 Input dimension:  784 Equivalence type:  Linf Dataset:  mnist
+Result: sat
+Execution time: 37.08 s
+---------------------------------------------
+Experiment:  mnist_1_3.h5 vs mnist_2_3.h5 Input dimension:  784 Equivalence type:  argmax Dataset:  mnist
+Result: timeout
+Execution time: 615.78 s
+---------------------------------------------
+Experiment:  mnist_1_4.h5 vs mnist_2_4.h5 Input dimension:  784 Equivalence type:  strict Dataset:  mnist
+Result: sat
+Execution time: 33.91 s
+---------------------------------------------
+Experiment:  mnist_1_4.h5 vs mnist_2_4.h5 Input dimension:  784 Equivalence type:  L1 Dataset:  mnist
+Result: sat
+Execution time: 88.37 s
+---------------------------------------------
+Experiment:  mnist_1_4.h5 vs mnist_2_4.h5 Input dimension:  784 Equivalence type:  Linf Dataset:  mnist
+Result: sat
+Execution time: 90.72 s
+---------------------------------------------
+Experiment:  mnist_1_4.h5 vs mnist_2_4.h5 Input dimension:  784 Equivalence type:  argmax Dataset:  mnist
+Result: sat
+Execution time: 87.79 s
+---------------------------------------------
+Experiment:  mnist_1_5.h5 vs mnist_2_5.h5 Input dimension:  784 Equivalence type:  strict Dataset:  mnist
+Result: sat
+Execution time: 79.54 s
+---------------------------------------------
+Experiment:  mnist_1_5.h5 vs mnist_2_5.h5 Input dimension:  784 Equivalence type:  L1 Dataset:  mnist
+Result: sat
+Execution time: 199.21 s
+---------------------------------------------
+Experiment:  mnist_1_5.h5 vs mnist_2_5.h5 Input dimension:  784 Equivalence type:  Linf Dataset:  mnist
+Result: sat
+Execution time: 203.31 s
+---------------------------------------------
+Experiment:  mnist_1_5.h5 vs mnist_2_5.h5 Input dimension:  784 Equivalence type:  argmax Dataset:  mnist
+Result: sat
+Execution time: 194.68 s
+---------------------------------------------
+The overall time for the current experiment is: 1988.83 s

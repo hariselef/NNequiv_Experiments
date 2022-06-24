@@ -1,0 +1,16 @@
+L2 Equivalence Checking Input dimension:  10 Equivalence type:  L2_1 Dataset:  BitVec
+Result: sat
+Execution time: 34.23 s
+---------------------------------------------
+L2 Equivalence Checking Input dimension:  10 Equivalence type:  L2_10 Dataset:  BitVec
+Result: unsat
+Execution time: 1504.24 s
+---------------------------------------------
+L2 Equivalence Checking Input dimension:  10 Equivalence type:  L2_1 Dataset:  BitVec
+Result: sat
+Execution time: 104.94 s
+---------------------------------------------
+L2 Equivalence Checking Input dimension:  10 Equivalence type:  L2_10 Dataset:  BitVec
+Result: unsat
+Execution time: 2670.41 s
+---------------------------------------------

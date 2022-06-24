@@ -1,0 +1,25 @@
+Experiment: NN_controller30.hdf5 vs NN_controller35.hdf5 Input dimension:  6 Equivalence type:  strict Dataset:  mpc
+Result: sat
+Execution time: 1.65 s
+---------------------------------------------
+Experiment: NN_controller30.hdf5 vs NN_controller40.hdf5 Input dimension:  6 Equivalence type:  L1 Dataset:  mpc
+Result: timeout
+Execution time: 602.87 s
+---------------------------------------------
+Experiment: NN_controller35.hdf5 vs NN_controller40.hdf5 Input dimension:  6 Equivalence type:  strict Dataset:  mpc
+Result: sat
+Execution time: 2.07 s
+---------------------------------------------
+Experiment: NN_controller30.hdf5 vs NN_controller35.hdf5 Input dimension:  6 Equivalence type:  L1 Dataset:  mpc
+Result: timeout
+Execution time: 602.62 s
+---------------------------------------------
+Experiment: NN_controller30.hdf5 vs NN_controller40.hdf5 Input dimension:  6 Equivalence type:  strict Dataset:  mpc
+Result: sat
+Execution time: 2.00 s
+---------------------------------------------
+Experiment: NN_controller35.hdf5 vs NN_controller40.hdf5 Input dimension:  6 Equivalence type:  L1 Dataset:  mpc
+Result: timeout
+Execution time: 602.60 s
+---------------------------------------------
+The overall time for the current experiment is: 1817.47 s

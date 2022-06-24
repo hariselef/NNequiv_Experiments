@@ -1,0 +1,161 @@
+Experiment:  bitvec_2_1.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: unsat
+Execution time: 0.05 s
+---------------------------------------------
+Experiment:  bitvec_2_1.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: unsat
+Execution time: 0.05 s
+---------------------------------------------
+Experiment:  bitvec_2_1.h5 Input dimension:  10 Equivalence type:  L2 Dataset:  BitVec
+Result: unsat
+Execution time: 0.06 s
+---------------------------------------------
+Experiment:  bitvec_2_1.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: unsat
+Execution time: 0.05 s
+---------------------------------------------
+Experiment:  bitvec_2_1.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: unsat
+Execution time: 0.05 s
+---------------------------------------------
+Experiment:  bitvec_2_2.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: unsat
+Execution time: 0.10 s
+---------------------------------------------
+Experiment:  bitvec_2_2.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: unsat
+Execution time: 0.11 s
+---------------------------------------------
+Experiment:  bitvec_2_2.h5 Input dimension:  10 Equivalence type:  L2 Dataset:  BitVec
+Result: unsat
+Execution time: 0.13 s
+---------------------------------------------
+Experiment:  bitvec_2_2.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: unsat
+Execution time: 0.11 s
+---------------------------------------------
+Experiment:  bitvec_2_2.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: unsat
+Execution time: 0.10 s
+---------------------------------------------
+Experiment:  bitvec_2_3.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: unsat
+Execution time: 0.18 s
+---------------------------------------------
+Experiment:  bitvec_2_3.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: unsat
+Execution time: 0.20 s
+---------------------------------------------
+Experiment:  bitvec_2_3.h5 Input dimension:  10 Equivalence type:  L2 Dataset:  BitVec
+Result: unsat
+Execution time: 0.18 s
+---------------------------------------------
+Experiment:  bitvec_2_3.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: unsat
+Execution time: 0.18 s
+---------------------------------------------
+Experiment:  bitvec_2_3.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: unsat
+Execution time: 0.18 s
+---------------------------------------------
+Experiment:  bitvec_2_4.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: unsat
+Execution time: 0.27 s
+---------------------------------------------
+Experiment:  bitvec_2_4.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: unsat
+Execution time: 0.26 s
+---------------------------------------------
+Experiment:  bitvec_2_4.h5 Input dimension:  10 Equivalence type:  L2 Dataset:  BitVec
+Result: unsat
+Execution time: 0.27 s
+---------------------------------------------
+Experiment:  bitvec_2_4.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: unsat
+Execution time: 0.27 s
+---------------------------------------------
+Experiment:  bitvec_2_4.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: unsat
+Execution time: 0.26 s
+---------------------------------------------
+Experiment:  bitvec_2_5.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: unsat
+Execution time: 0.55 s
+---------------------------------------------
+Experiment:  bitvec_2_5.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: unsat
+Execution time: 0.52 s
+---------------------------------------------
+Experiment:  bitvec_2_5.h5 Input dimension:  10 Equivalence type:  L2 Dataset:  BitVec
+Result: unsat
+Execution time: 0.50 s
+---------------------------------------------
+Experiment:  bitvec_2_5.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: unsat
+Execution time: 0.49 s
+---------------------------------------------
+Experiment:  bitvec_2_5.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: unsat
+Execution time: 0.50 s
+---------------------------------------------
+Experiment:  bitvec_2_6.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: unsat
+Execution time: 0.79 s
+---------------------------------------------
+Experiment:  bitvec_2_6.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: unsat
+Execution time: 0.87 s
+---------------------------------------------
+Experiment:  bitvec_2_6.h5 Input dimension:  10 Equivalence type:  L2 Dataset:  BitVec
+Result: unsat
+Execution time: 0.84 s
+---------------------------------------------
+Experiment:  bitvec_2_6.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: unsat
+Execution time: 0.81 s
+---------------------------------------------
+Experiment:  bitvec_2_6.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: unsat
+Execution time: 0.81 s
+---------------------------------------------
+Experiment:  bitvec_2_7.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: unsat
+Execution time: 1.22 s
+---------------------------------------------
+Experiment:  bitvec_2_7.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: unsat
+Execution time: 1.24 s
+---------------------------------------------
+Experiment:  bitvec_2_7.h5 Input dimension:  10 Equivalence type:  L2 Dataset:  BitVec
+Result: unsat
+Execution time: 1.20 s
+---------------------------------------------
+Experiment:  bitvec_2_7.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: unsat
+Execution time: 1.25 s
+---------------------------------------------
+Experiment:  bitvec_2_7.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: unsat
+Execution time: 1.23 s
+---------------------------------------------
+Experiment:  bitvec_2_8.h5 Input dimension:  10 Equivalence type:  strict Dataset:  BitVec
+Result: unsat
+Execution time: 1.64 s
+---------------------------------------------
+Experiment:  bitvec_2_8.h5 Input dimension:  10 Equivalence type:  L1 Dataset:  BitVec
+Result: unsat
+Execution time: 1.71 s
+---------------------------------------------
+Experiment:  bitvec_2_8.h5 Input dimension:  10 Equivalence type:  L2 Dataset:  BitVec
+Result: unsat
+Execution time: 1.64 s
+---------------------------------------------
+Experiment:  bitvec_2_8.h5 Input dimension:  10 Equivalence type:  Linf Dataset:  BitVec
+Result: unsat
+Execution time: 1.72 s
+---------------------------------------------
+Experiment:  bitvec_2_8.h5 Input dimension:  10 Equivalence type:  argmax Dataset:  BitVec
+Result: unsat
+Execution time: 1.67 s
+---------------------------------------------
+The overall time for the current experiment is: 34.87 s
