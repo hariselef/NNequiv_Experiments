@@ -107,7 +107,7 @@ def calc_experiment(nn1, nn2, eq_type, dataset):
 
     # Quantifier free Non Linear Real Arithmetic - nlSAT solver
     #s = Tactic('qfnra-nlsat').solver()
-    # s.reset()
+    s.reset()
 
     ## define ouput
     # BitVec, mnist
