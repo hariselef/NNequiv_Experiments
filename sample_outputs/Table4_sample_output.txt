@@ -218,3 +218,24 @@ Experiment:  mnist_2_11.h5 Input dimension:  784 Equivalence type:  argmax Datas
 Result: unsat
 Execution time: 1902.31 s
 ---------------------------------------------
+Experiment:  mnist_2_12.h5 Input dimension:  784 Equivalence type:  strict Dataset:  mnist
+Result: unsat
+Execution time: 1873.97 s
+---------------------------------------------
+Experiment:  mnist_2_12.h5 Input dimension:  784 Equivalence type:  L1 Dataset:  mnist
+Result: unsat
+Execution time: 2057.42 s
+---------------------------------------------
+Experiment:  mnist_2_12.h5 Input dimension:  784 Equivalence type:  L2 Dataset:  mnist
+Result: unsat
+Execution time: 1965.73 s
+---------------------------------------------
+Experiment:  mnist_2_12.h5 Input dimension:  784 Equivalence type:  Linf Dataset:  mnist
+Result: unsat
+Execution time: 1983.26 s
+---------------------------------------------
+Experiment:  mnist_2_12.h5 Input dimension:  784 Equivalence type:  argmax Dataset:  mnist
+Result: unsat
+Execution time: 2033.97 s
+---------------------------------------------
+The overall time for the current experiment is: 32418,63 s
