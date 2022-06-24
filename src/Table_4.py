@@ -103,10 +103,10 @@ def calc_experiment(nn1, nn2, eq_type, dataset):
 
     ## Solver instances ##
     # Default
-    #s = Solver()
+    s = Solver()
 
     # Quantifier free Non Linear Real Arithmetic - nlSAT solver
-    s = Tactic('qfnra-nlsat').solver()
+    #s = Tactic('qfnra-nlsat').solver()
     # s.reset()
 
     ## define ouput
