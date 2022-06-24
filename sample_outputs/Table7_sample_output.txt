@@ -14,3 +14,4 @@ L2 Equivalence Checking Input dimension:  10 Equivalence type:  L2_10 Dataset:  
 Result: unsat
 Execution time: 2670.41 s
 ---------------------------------------------
+The overall time for the current experiment is: 4313.82 s
