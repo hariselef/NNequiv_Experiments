@@ -17,11 +17,11 @@ service docker start
 
 3) Download or Clone current repository. In case you have Git installed you can run from terminal:
 ```
-git clone https://github.com/hariselef/NNequiv Experiments.git 
+git clone https://github.com/hariselef/NNequiv_Experiments.git 
 ```
 or
 ```
-git clone git@github.com:hariselef/NNequiv Experiments.git
+git clone git@github.com:hariselef/NNequiv_Experiments.git
 ```
 
 4) Once you have downloaded the source code (from the repository), you need to open a terminal (console, command window, command prompt) and move to the directory you have placed the code, e.g.
