@@ -114,7 +114,7 @@ def argmax_eq(x, y):
     for i in range(len(x)):
         for j in range(len(y)):
             if i != j:
-                arg.append(And(argmaxis2(x, i) + argmaxis2(y, j)))
+                arg.append(And(argmaxis(x, i) + argmaxis(y, j)))
     return arg
 
 def Softmax(x):
