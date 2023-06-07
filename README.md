@@ -57,3 +57,20 @@ e.g. python src/Table_1.py
 ```
 Available Table names:
 Table_1, Table_2, Table_3, Table_4, Table_5, Table_6, Table_7 & Table_9
+
+## Citation
+@InProceedings{10.1007/978-3-031-15839-1_14,
+author="Eleftheriadis, Charis
+and Kekatos, Nikolaos
+and Katsaros, Panagiotis
+and Tripakis, Stavros",
+editor="Bogomolov, Sergiy
+and Parker, David",
+title="On Neural Network Equivalence Checking Using SMT Solvers",
+booktitle="Formal Modeling and Analysis of Timed Systems",
+year="2022",
+publisher="Springer International Publishing",
+address="Cham",
+pages="237--257",
+isbn="978-3-031-15839-1"
+}
