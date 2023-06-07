@@ -59,7 +59,7 @@ Available Table names:
 Table_1, Table_2, Table_3, Table_4, Table_5, Table_6, Table_7 & Table_9
 
 ## Citation
-###
+```
 @InProceedings{10.1007/978-3-031-15839-1_14,
 author="Eleftheriadis, Charis
 and Kekatos, Nikolaos
@@ -75,3 +75,4 @@ address="Cham",
 pages="237--257",
 isbn="978-3-031-15839-1"
 }
+```
