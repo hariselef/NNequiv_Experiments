@@ -65,8 +65,6 @@ author="Eleftheriadis, Charis
 and Kekatos, Nikolaos
 and Katsaros, Panagiotis
 and Tripakis, Stavros",
-editor="Bogomolov, Sergiy
-and Parker, David",
 title="On Neural Network Equivalence Checking Using SMT Solvers",
 booktitle="Formal Modeling and Analysis of Timed Systems",
 year="2022",
